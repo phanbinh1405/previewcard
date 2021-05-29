@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Solution](https://github.com/phanbinh1405/previewcard)
-- GitHub Pages URL:[Page](phanbinh1405.github.io/previewcard/)
+- GitHub Pages URL:[Page](https://phanbinh1405.github.io/previewcard/)
 ## My process
 
 ### Built with
